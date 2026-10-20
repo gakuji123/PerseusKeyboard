@@ -148,7 +148,7 @@ Please note that the script simulates mouse clicks at specific positions in the 
 
 ## Bug Reports and Feedback
 
-If you encounter a problem or have a suggestion for improvement, please report it through the **Issues** section of this GitHub repository.
+If you encounter a problem or have a suggestion for improvement, please report it through the [Issues section](https://github.com/gakuji123/PerseusKeyboard/issues) of this GitHub repository.
 
 When submitting a report, please include:
 
