@@ -57,26 +57,16 @@ Thank you to everyone who has contributed to this project.
 Use the following keyboard shortcuts to select the demodulation mode.
 
 | Key | Mode |
-
 |---|---|
-
-| `a` | AM |
-
-| `s` | SAM |
-
-| `c` | CW |
-
-| `r` | RTTY |
-
-| `l` | LSB |
-
-| `u` | USB |
-
-| `f` | FM |
-
-| `d` | DRM |
-
-| `e` | User |
+| a | AM |
+| s | SAM |
+| c | CW |
+| r | RTTY |
+| l | LSB |
+| u | USB |
+| f | FM |
+| d | DRM |
+| e | User |
 
 ### Receiver Controls
 
